@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
         name='helper',
-        version='0.0.1',
+        version='0.0.2',
         description='python helper functions',
         url='github 링크',
         author='wesleyok',
